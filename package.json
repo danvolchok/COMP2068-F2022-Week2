@@ -1,0 +1,22 @@
+{
+  "name": "comp2068-week2",
+  "version": "1.0.0",
+  "description": "A closed function example",
+  "main": "closedFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danvolchok/COMP2068-F2022-Week2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danvolchok/COMP2068-F2022-Week2/issues"
+  },
+  "homepage": "https://github.com/danvolchok/COMP2068-F2022-Week2#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
